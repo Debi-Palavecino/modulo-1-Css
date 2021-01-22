@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Mukta:wght@600&display=swap');
+h1{
+    color: rgb(248, 1, 1);
+    font-size: 120px;
+    font-family: 'Indie Flower', cursive;
+    width: 900;
+}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+p{
+font-size: 48px;
+font-family: 'Dancing Script', cursive;
+}
+.resaltado{
+    color: blueviolet;
+    font-size: 48px;
+    font-family: 'Dancing Script', cursive;
+
+}
+.resaltado2{
+    color: crimson;
+    font-size: 48px;
+    font-family: 'Dancing Script', cursive;
+}

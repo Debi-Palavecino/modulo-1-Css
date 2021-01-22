@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+*{
+    font-size: 30px;
+    font-family: 'Redressed', cursive; 
+    font-weight: 100;
+    
+}
+    #A{
+  color:rgba(129, 5, 129, 0.667);
+}
+    #B{
+    color: #ddbe0d;
+}
+    #C{
+    color: #cf0c2d;
+}
+    #D{
+      color: #f16a35;
+}
+    #F{
+        color: red;
+}
+    #G{
+      color: rgb(252, 235, 138);
+      background-color: rgb(250, 45, 80);
+}
+    #K{
+        color: sienna;
+        background-color: rgb(22, 187, 7);
+}
+    #M{
+        color: rgb(236, 5, 5);
+}
+    #N{
+        color: rgb(233, 132, 38);
+}
+    #U{
+        color: purple;
+}
